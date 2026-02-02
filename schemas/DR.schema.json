@@ -1,0 +1,19 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "DR.schema.json",
+  "title": "DADS Decision Record (DR) - structural schema only",
+  "type": "object",
+  "required": ["record_type","record_id","created_utc","actor","system","decision","rationale","risk","lineage"],
+  "properties": {
+    "record_type": { "const": "DR" },
+    "record_id": { "type": "string", "minLength": 1 },
+    "created_utc": { "type": "string", "minLength": 1 },
+    "actor": { "type": "string", "minLength": 1 },
+    "system": { "type": "string", "minLength": 1 },
+    "decision": { "type": "string", "minLength": 1 },
+    "rationale": { "type": "string", "minLength": 1 },
+    "risk": { "type": "object" },
+    "lineage": { "type": "object" }
+  },
+  "additionalProperties": true
+}

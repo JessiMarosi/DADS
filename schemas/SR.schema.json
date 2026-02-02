@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "SR.schema.json",
+  "title": "DADS Supersession Record (SR) - structural schema only",
+  "type": "object",
+  "required": ["record_type","record_id","created_utc","actor","supersedes","superseded_by","lineage"],
+  "properties": {
+    "record_type": { "const": "SR" },
+    "record_id": { "type": "string", "minLength": 1 },
+    "created_utc": { "type": "string", "minLength": 1 },
+    "actor": { "type": "string", "minLength": 1 },
+    "supersedes": { "type": "string", "minLength": 1 },
+    "superseded_by": { "type": "string", "minLength": 1 },
+    "lineage": { "type": "object" }
+  },
+  "additionalProperties": true
+}
