@@ -1,0 +1,13 @@
+﻿{
+  "record_id": "SR-2026-02-02-0001",
+  "record_type": "SR",
+  "created_utc": "2026-02-02T20:47:47Z",
+  "actors": [
+    "Jessica Marosi"
+  ],
+  "superseded_record_ids": [
+    "RR-2026-02-02-0001"
+  ],
+  "superseding_record_id": "RR-2026-02-02-0001",
+  "supersession_reason": "Structural supersession recorded to demonstrate linkage and validator behavior. No semantic change."
+}

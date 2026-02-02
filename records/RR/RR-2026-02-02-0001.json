@@ -1,0 +1,17 @@
+﻿{
+  "record_id": "RR-2026-02-02-0001",
+  "record_type": "RR",
+  "created_utc": "2026-02-02T20:47:38Z",
+  "actors": [
+    "Jessica Marosi"
+  ],
+  "linked_decision_id": "DR-2026-02-02-0001",
+  "rationale": "JSON was selected because it is human-readable, diff-friendly, tooling-neutral, and allows deterministic structural validation without interpretation.",
+  "assumptions": [
+    "Human authorship is preserved",
+    "No schema inference or automation is required"
+  ],
+  "unknowns": [
+    "Future tooling preferences of adopters"
+  ]
+}
