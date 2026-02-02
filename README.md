@@ -1,6 +1,6 @@
-﻿# Decision Accountability Documentation System (DADS)
+# Decision Accountability Documentation System (DADS)
 
-**Status:** Phase 2.2 complete and locked
+**Status:** Phase 5 (Minimal Enactment) active — scope limited and governed
 
 ---
 
@@ -8,7 +8,7 @@
 
 The **Decision Accountability Documentation System (DADS)** is governance-grade documentation infrastructure designed to preserve **institutional truth**.
 
-DADS exists to make system decisions, rationale, known risks, and human accountability **durable across time, personnel change, audits, litigation, and scrutiny**  without enforcing behavior, rewriting history, or automating judgment.
+DADS exists to make system decisions, rationale, known risks, and human accountability **durable across time, personnel change, audits, litigation, and scrutiny** — without enforcing behavior, rewriting history, or automating judgment.
 
 DADS answers, credibly and immutably:
 
@@ -33,7 +33,7 @@ DADS does **not**:
 - Use AI for interpretation, judgment, or record generation  
 
 **Critical boundary:**  
-DADS does not certify correctness  only accountability and truthfulness of record.
+DADS does not certify correctness — only accountability and truthfulness of record.
 
 ---
 
@@ -49,14 +49,18 @@ DADS does not certify correctness  only accountability and truthfulness of recor
 
 ## Phase Model (Authoritative)
 
-- **Phase 0  Foundation** (Complete, Locked)  
-- **Phase 1  Validation Rules** (Complete, Locked)  
-- **Phase 1.5  Minimal Validator** (Complete, Locked)  
-- **Phase 2  Architecture & Lifecycle** (Complete, Locked)  
-- **Phase 2.1  Threat Model** (Complete, Locked)  
-- **Phase 2.2  Failure Modes & Misuse Analysis** (Complete, Locked)  
+- **Phase 0 — Foundation** (Complete, Locked)  
+- **Phase 1 — Validation Rules** (Complete, Locked)  
+- **Phase 1.5 — Minimal Validator** (Complete, Locked)  
+- **Phase 2 — Architecture & Lifecycle** (Complete, Locked)  
+- **Phase 2.1 — Threat Model** (Complete, Locked)  
+- **Phase 2.2 — Failure Modes & Misuse Analysis** (Complete, Locked)  
+- **Phase 3 — Record Taxonomy & Validator Proposals** (Complete, Locked)  
+- **Phase 4 — Enactment Planning** (Complete, Locked)  
+- **Phase 5 — Minimal Enactment** (Active, Scope-Limited)
 
-Phases beyond 2.2 are not started.
+Phase 5 is intentionally minimal and non-enforcing.  
+No workflows, approvals, automation, or compliance claims are introduced.
 
 ---
 
