@@ -1,0 +1,14 @@
+﻿{
+  "record_id": "DR-2026-02-02-0001",
+  "record_type": "DR",
+  "created_utc": "2026-02-02T20:37:23Z",
+  "actors": [
+    "Jessica Marosi"
+  ],
+  "decision_statement": "Adopt JSON (UTF-8), one-record-per-file, as the Phase 5 minimal record serialization format for DADS.",
+  "system_scope": "DADS repository record store (Phase 5 MVE)",
+  "decision_makers": [
+    "Jessica Marosi"
+  ],
+  "notes": "Structural decision only. No compliance claims. No enforcement implied."
+}
