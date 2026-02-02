@@ -1,0 +1,15 @@
+﻿# DADS text normalization
+# Ensure consistent LF in repo for deterministic diffs across platforms.
+* text=auto eol=lf
+
+# Common text formats
+*.md  text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+# PowerShell scripts
+*.ps1 text eol=lf
+*.psm1 text eol=lf
+*.psd1 text eol=lf
